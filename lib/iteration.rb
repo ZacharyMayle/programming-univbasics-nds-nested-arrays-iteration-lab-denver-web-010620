@@ -25,11 +25,6 @@ def find_greater_pair(array_2)
   array_2[3].max,
   array_2[4].max
   ]
- 
-while array_2[find_greater_pair] do
-  array_2[find_greater_pair].max
-  find_greater_pair += 1
-end
   
 end
 
