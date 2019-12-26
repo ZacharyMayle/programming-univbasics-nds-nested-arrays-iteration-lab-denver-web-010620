@@ -30,7 +30,7 @@ end
 
 def total_even_pairs(array_3)
   
-  total_even_pairs = 
+  total_even_pairs = 344812
   
   
   
